@@ -1,0 +1,17 @@
+body
+{
+background:url(allpic.jpg);
+background-size:100%;
+background-repeat:no-repeat;
+font-family:calibri;
+font-size:20px;
+color:black;
+margin-left:50px;
+background-attachment:fixed;
+}
+
+pre{
+font-family:calibri;
+font-size:20px;
+color:black;
+}
